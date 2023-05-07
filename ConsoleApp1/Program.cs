@@ -1,4 +1,6 @@
-﻿namespace ConsoleApp1
+﻿using System;
+
+namespace ConsoleApp1
 {
     internal class Program
     {
